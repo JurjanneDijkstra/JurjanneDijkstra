@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JurjanneDijkstra,
-- 👀 I’m interested in using data to save the planet.
+- 👀 I’m interested in using data to save the planet, check out my Instagram account called "Easy Eco Nerd"!
 - 🌱 I’m currently learning to code and to visualize data.
 - 💞️ I’m looking to collaborate on anything environmental!
 - 📫 Send me a message if you want to collaborate.
